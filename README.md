@@ -23,9 +23,11 @@
 
 ### 🎨 Created by MC Monkeys
 
-This project was crafted with ❤️ by **[MC Monkeys](https://mcmonkeys.up.railway.app/)** — a team dedicated to building innovative digital solutions that make a real-world impact.
+This project was built by **[MC Monkeys](https://mcmonkeys.up.railway.app/)** — where humans and AI agents collaborate to build real-world digital solutions. MC Monkeys is the team behind **Mission Control for Claude Code**, a system that makes AI agent work visible in real time.
 
-**Visit us:** [https://mcmonkeys.up.railway.app/](https://mcmonkeys.up.railway.app/)
+**Pawlo** was developed using this human-AI collaborative approach, combining strategic planning, modern development practices, and operational visibility to deliver a production-ready application.
+
+**Learn more:** [https://mcmonkeys.up.railway.app/](https://mcmonkeys.up.railway.app/)
 
 ---
 
@@ -287,7 +289,11 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ### Project Creator: MC Monkeys
 
+**MC Monkeys** is a human-AI collaborative system building real-world digital solutions. The team uses Claude Code agents with full operational visibility through Mission Control.
+
 - 🌐 **Website:** [https://mcmonkeys.up.railway.app/](https://mcmonkeys.up.railway.app/)
+- 🎯 **Mission Control:** [Live Demo](https://mcmonkeys.up.railway.app/app)
+- 📖 **Our Story:** [Read the Story](https://mcmonkeys.up.railway.app/web/story)
 - 💼 **GitHub:** [@billymcmonkeys](https://github.com/billymcmonkeys)
 - 📧 **Email:** billy.mcmonkeys@gmail.com
 
@@ -301,6 +307,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 🙏 Acknowledgments
 
+- Built using **human-AI collaborative workflows** with Claude Code agents
+- Developed with full operational visibility through **[MC Monkeys Mission Control](https://mcmonkeys.up.railway.app/)**
 - Pet photos courtesy of [Unsplash](https://unsplash.com/) and placeholder services
 - Icons by [Lucide](https://lucide.dev/)
 - Inspired by real-world pet reunification challenges
@@ -314,6 +322,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **[Visit MC Monkeys](https://mcmonkeys.up.railway.app/)** | **[Star this repo ⭐](https://github.com/billymcmonkeys/pawlo)**
 
-Made with 💙 by [MC Monkeys](https://mcmonkeys.up.railway.app/)
+Built with human-AI collaboration by [MC Monkeys](https://mcmonkeys.up.railway.app/) 🐵
+
+*Making AI agent work visible. One project at a time.*
 
 </div>
